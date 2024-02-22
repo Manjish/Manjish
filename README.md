@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjish" alt="manjish" /></a> </p>
 
-- 🔭 I’m currently working on [SRAN](sran.com.np)
+- 🔭 I’m currently working on [wesionaryTEAM](https://www.wesionary.team/)
 
 - 🌱 I’m currently learning **React.js/NEXT.js**
 
-- 💬 Ask me about **node, react, sql**
+- 💬 Ask me about **node, nest, go, react, sql**
 
 - 📫 How to reach me **manjish77@gmail.com**
 
