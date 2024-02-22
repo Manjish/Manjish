@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [wesionaryTEAM](https://www.wesionary.team/)
 
-- 🌱 I’m currently learning **React.js/NEXT.js**
+- 🌱 I’m currently learning **React.js/NEXT.js and GoLang**
 
 - 💬 Ask me about **node, nest, go, react, sql**
 
